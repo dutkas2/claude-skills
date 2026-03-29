@@ -7,6 +7,7 @@ Custom skills for [Claude Code](https://claude.ai/code) by Shane Dutka.
 | Skill | Description |
 |-------|-------------|
 | [superpixels](./superpixels/) | Design and build remarkable, memorable micro-interactions for web projects. Inspired by Glen Allsopp's Superpixels framework. |
+| [pagesforpros](./pagesforpros/) | Working with PagesForPros MCP - templates, pages, settings, compliance, and known gotchas for local service business websites. |
 
 ## Installation
 
